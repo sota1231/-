@@ -36,22 +36,31 @@ header{
     
 }
 
+.links a{
+    display:block;
+}
+
 .links{
     
     float:left;
-    display:block;
-    padding:20px 20px;
+    
+    padding:20px 0px;
     width:33%;
-    margin:20px auto;
+    margin:0 auto;
 }
 
-.link:hover{
+
+
+
+
+.links img:hover{
     opacity:0.5;
+    padding-top:5px;
 }
 
 .links p{
     width:70%;
-    margin:20px auto;
+    
 }
 
 .clear{
@@ -66,18 +75,11 @@ header{
     float:left;
 }
 
-.helo{
-    background-image:url("./img/badminton-7.jpg");
-    background-size:100%;
-    width:450px;
-    margin-bottom:200px;
-}
 
 .helo p{
-    width:100%;
-    margin:0 0 0 500px;
     font-size:14px;
-    padding:5px 0;
+    margin:20px 0 20px 30px;
+  
     
 }
 
