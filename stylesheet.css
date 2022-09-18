@@ -1,0 +1,88 @@
+*{
+    box-sizing:border-box;
+}
+
+body{
+    
+}
+
+header{
+    padding:15px 20px;
+    background-color:#2fc4ab;
+    letter-spacing:15px;
+}
+
+.top-wrapper{
+    background-image:url(./img/badminton-1.jpg);
+    height: 600px;
+    background-size: cover;
+    
+}
+
+.top-wrapper h3{
+    text-align:center;
+    padding:300px 0;
+    font-size:55px;
+    color:white;
+    
+    
+}
+
+.link-wrapper h3{
+    background-color:#48c42f;
+}
+
+.container{
+    
+}
+
+.links{
+    
+    float:left;
+    display:block;
+    padding:20px 20px;
+    width:33%;
+    margin:20px auto;
+}
+
+.link:hover{
+    opacity:0.5;
+}
+
+.links p{
+    width:70%;
+    margin:20px auto;
+}
+
+.clear{
+    clear:left;
+}
+
+.title{
+    background-color:#48c42f;
+}
+
+.image img{
+    float:left;
+}
+
+.helo{
+    background-image:url("./img/badminton-7.jpg");
+    background-size:100%;
+    width:450px;
+    margin-bottom:200px;
+}
+
+.helo p{
+    width:100%;
+    margin:0 0 0 500px;
+    font-size:14px;
+    padding:5px 0;
+    
+}
+
+footer{
+    padding:15px 20px;
+    background-color:#2fc4ab;
+    letter-spacing:15px;
+}
