@@ -1,0 +1,22 @@
+@media all and (max-width: 1000px) {
+
+   .top-wrapper h3{
+       font-size:45px;
+    }
+   .lessons{
+       width:50%;
+    }
+
+
+}
+
+@media all and (max-width: 670px) {
+    .top-wrapper h3{
+        font-size:30px;
+    }
+
+    .lessons{
+        width:100%;
+    }
+
+}
