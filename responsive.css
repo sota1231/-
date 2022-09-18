@@ -1,22 +1,30 @@
-@media all and (max-width: 1000px) {
-
-   .top-wrapper h3{
-       font-size:45px;
-    }
-   .lessons{
-       width:50%;
-    }
-
-
-}
-
-@media all and (max-width: 670px) {
+@media all and (max-width: 950px) {
     .top-wrapper h3{
-        font-size:30px;
+        font-size:45px;
+    }
+    
+    .links {
+        
+        width:50%;
+        margin:0 auto;
+     }
+
+    .links p{
+        font-size:15px;
     }
 
-    .lessons{
+    .hello p{
+        margin-top:450px ;
+        float:left;
+    }
+ }
+
+ @media screen and (max-width: 600px) {
+    .top-wrapper h3{
+        font-size:37px;
+    }
+
+    .links{
         width:100%;
     }
-
-}
+ }
