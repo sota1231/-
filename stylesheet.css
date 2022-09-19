@@ -2,9 +2,7 @@
     box-sizing:border-box;
 }
 
-body{
-    
-}
+
 
 header{
     padding:15px 20px;
@@ -32,9 +30,7 @@ header{
     background-color:#48c42f;
 }
 
-.container{
-    
-}
+
 
 .links a{
     display:block;
